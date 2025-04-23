@@ -1,6 +1,6 @@
 # 👋 Bienvenue sur mon profil GitHub !
 
-Je suis **YoDaMned59**, développeur web passionné par la création d'interfaces intuitives et réactives. Fraîchement diplômé *Développeur Front-end* chez OpenClassrooms, je mets en pratique mes compétences à travers divers projets.
+Je suis **YoDaMned59**, développeur web passionné par la création d'interfaces intuitives et réactives. *Développeur Front-end*, je mets en pratique mes compétences à travers divers projets.
 
 ---
 
