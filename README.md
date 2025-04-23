@@ -21,7 +21,7 @@ Je suis **YoDaMned59**, développeur web passionné par la création d'interface
 
 Fan inconditionnel de **Star Wars**, je m'inspire de l'univers galactique pour coder avec passion et créativité. Mon pseudo est un clin d'œil à Yoda, maître Jedi et source d'inspiration.
 
-![Yoda](assets/yoda.gif)
+<img src="assets/yoda.gif" width="400"/>
 
 ---
 
